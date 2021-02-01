@@ -18,10 +18,17 @@ Replace all files in the training folder into the project of EmboiedQA.
 Robust-VQA
 ----
 
+For low-level noisy environments (20\% of noisy labels):
+
+For extremely noisy environments (45\% of noisy labels):
+
 
 Robust-Navigation
 ----
 
+For low-level noisy environments (20\% of noisy labels):
+
+For extremely noisy environments (45\% of noisy labels):
 
 Joint-Robust learning
 ---
