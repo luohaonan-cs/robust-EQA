@@ -40,6 +40,7 @@ For extremely noisy environments (45\% of noisy labels):
 Joint-Robust learning
 ---
 
-`python train_eqa.py -nav_checkpoint_path /path/to/nav/ques-image-pacman/checkpoint.pt -ans_checkpoint_path /path/to/vqa/ques-image/checkpoint.pt -identifier ques-image-eqa -log`
+`   python train_eqa.py -nav_checkpoint_path /path/to/nav/ques-image-pacman/checkpoint.pt 
+    -ans_checkpoint_path /path/to/vqa/ques-image/checkpoint.pt -identifier ques-image-eqa -log`
 
 
