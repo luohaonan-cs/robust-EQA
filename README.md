@@ -11,7 +11,9 @@ Haonan Luo, Guosheng Lin
 Setup
 -----
 
-Download the [SUNCG](https://github.com/facebookresearch/House3D/blob/master/INSTRUCTION.md#usage-instructions) dataset, [House3D](https://github.com/abhshkdz/House3D/tree/master/renderer#rendering-code-of-house3d) virtual environment and install [EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA/blob/master/README.md) framework.
+    Download the [SUNCG](https://github.com/facebookresearch/House3D/blob/master/INSTRUCTION.md#usage-instructions) dataset, [House3D]
+    (https://github.com/abhshkdz/House3D/tree/master/renderer#rendering-code-of-house3d) virtual environment and install [EmbodiedQA]       \
+    (https://github.com/facebookresearch/EmbodiedQA/blob/master/README.md) framework.
 
 Replace all files in the training folder into the project of EmboiedQA.
 
