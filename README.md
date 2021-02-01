@@ -20,11 +20,7 @@ Robust-VQA
 
 For low-level noisy environments (20\% of noisy labels):
 
-`                                                                                                                               
-
-python train_vqa_noise.py -input_type ques,image -identifier ques-image -noise_rate 0.2 -forget_rate 0.2 -exponent 1 -log -cache 
-
-                                                                                                                               `
+`python train_vqa_noise.py -input_type ques,image -identifier ques-image -noise_rate 0.2 -forget_rate 0.2 -exponent 1 -log -cache`
 
 For extremely noisy environments (45\% of noisy labels):
 
