@@ -35,7 +35,7 @@ For low-level noisy environments (20\% of noisy labels):
 
 For extremely noisy environments (45\% of noisy labels):
 
-`python train_nav_noise.py -model_type lstm -identifier lstm -noise_rate 0.2 -forget_rate 0.2 -exponent 1 -log`
+`python train_nav_noise.py -model_type lstm -identifier lstm -noise_rate 0.45 -forget_rate 0.45 -exponent 1 -log`
 
 Joint-Robust learning
 ---
